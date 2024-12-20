@@ -1,6 +1,6 @@
 # Docusaurus on Github Pages
 
-This is a demo repo to allow for a fast setup of Docusaurus on Github pages
+This is a demo repo to allow for a fast setup of Docusaurus on Github pages LINK: https://jhugtfrdes.github.io/TP3/
 
 # Instructions
 
