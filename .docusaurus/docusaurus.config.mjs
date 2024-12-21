@@ -27,11 +27,11 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\PPGas\\OneDrive\\Desktop\\TP3\\TP3\\sidebars.js",
+          "sidebarPath": "C:\\Users\\Pedro\\Desktop\\TP3\\TP3\\sidebars.js",
           "editUrl": "https://github.com/jhugtfrdes/TP3/tree/main/"
         },
         "theme": {
-          "customCss": "C:\\Users\\PPGas\\OneDrive\\Desktop\\TP3\\TP3\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\Pedro\\Desktop\\TP3\\TP3\\src\\css\\custom.css"
         }
       }
     ]
@@ -39,7 +39,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Test Site",
+      "title": "Myt Site",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
