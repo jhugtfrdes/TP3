@@ -1,68 +1,53 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docusaurus-ghpages/docs",
+      "path": "/TP3/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docusaurus-ghpages/docs",
+          "path": "/TP3/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/docusaurus-ghpages/docs/intro",
+              "path": "/TP3/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/congratulations",
-              "path": "/docusaurus-ghpages/docs/tutorial-basics/congratulations",
+              "path": "/TP3/docs/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docusaurus-ghpages/docs/tutorial-basics/create-a-blog-post",
+              "path": "/TP3/docs/tutorial-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-document",
-              "path": "/docusaurus-ghpages/docs/tutorial-basics/create-a-document",
+              "path": "/TP3/docs/tutorial-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-page",
-              "path": "/docusaurus-ghpages/docs/tutorial-basics/create-a-page",
+              "path": "/TP3/docs/tutorial-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
-              "path": "/docusaurus-ghpages/docs/tutorial-basics/deploy-your-site",
+              "path": "/TP3/docs/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/docusaurus-ghpages/docs/tutorial-basics/markdown-features",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docusaurus-ghpages/docs/tutorial-extras/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docusaurus-ghpages/docs/tutorial-extras/translate-your-site",
+              "path": "/TP3/docs/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---basics",
-              "path": "/docusaurus-ghpages/docs/category/tutorial---basics",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tutorial---extras",
-              "path": "/docusaurus-ghpages/docs/category/tutorial---extras",
+              "path": "/TP3/docs/category/tutorial---basics",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,7 +55,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docusaurus-ghpages/docs/intro",
+                "path": "/TP3/docs/intro",
                 "label": "intro"
               }
             }

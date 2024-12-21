@@ -8,16 +8,16 @@ export default {
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "url": "https://github.com",
-  "baseUrl": "/docusaurus-ghpages/",
-  "organizationName": "masaleiro",
-  "projectName": "docusaurus-ghpages",
+  "baseUrl": "/TP3/",
+  "organizationName": "jhugtfrdes",
+  "projectName": "TP3",
   "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "pt",
     "locales": [
-      "en"
+      "pt"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -28,11 +28,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "C:\\Users\\PPGas\\OneDrive\\Desktop\\TP3\\TP3\\sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/jhugtfrdes/TP3/tree/main/"
         },
         "theme": {
           "customCss": "C:\\Users\\PPGas\\OneDrive\\Desktop\\TP3\\TP3\\src\\css\\custom.css"
@@ -43,7 +39,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "My Test Site",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -56,12 +52,12 @@ export default {
           "label": "Tutorial"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
+          "to": "/biblioteca",
+          "label": "Biblioteca",
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/jhugtfrdes/TP3",
           "label": "GitHub",
           "position": "right"
         }
@@ -94,19 +90,6 @@ export default {
             {
               "label": "Twitter",
               "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }
@@ -335,11 +318,11 @@ export default {
       "maxHeadingLevel": 3
     }
   },
-  "baseUrlIssueBanner": true,
-  "onDuplicateRoutes": "warn",
   "staticDirectories": [
     "static"
   ],
+  "baseUrlIssueBanner": true,
+  "onDuplicateRoutes": "warn",
   "customFields": {},
   "plugins": [],
   "themes": [],

@@ -3,19 +3,19 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "/docusaurus-ghpages/blog/welcome"
+      "permalink": "/TP3/blog/welcome"
     },
     {
       "title": "MDX Blog Post",
-      "permalink": "/docusaurus-ghpages/blog/mdx-blog-post"
+      "permalink": "/TP3/blog/mdx-blog-post"
     },
     {
       "title": "Long Blog Post",
-      "permalink": "/docusaurus-ghpages/blog/long-blog-post"
+      "permalink": "/TP3/blog/long-blog-post"
     },
     {
       "title": "First Blog Post",
-      "permalink": "/docusaurus-ghpages/blog/first-blog-post"
+      "permalink": "/TP3/blog/first-blog-post"
     }
   ]
 }
