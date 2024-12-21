@@ -6,9 +6,9 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/docusaurus-ghpages/docs/intro",
+  "permalink": "/TP3/docs/intro",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "editUrl": "https://github.com/jhugtfrdes/TP3/tree/main/docs/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Tutorial - Basics",
-    "permalink": "/docusaurus-ghpages/docs/category/tutorial---basics"
+    "permalink": "/TP3/docs/category/tutorial---basics"
   }
 }
