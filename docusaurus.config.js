@@ -32,6 +32,7 @@ module.exports = {
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "My Tet Site",
+      title: "My Site",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",

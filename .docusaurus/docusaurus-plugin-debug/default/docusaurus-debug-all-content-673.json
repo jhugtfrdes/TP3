@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/jhugtfrdes/TP3/tree/main/i18n/pt/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\Pedro\\Desktop\\TP3\\TP3\\sidebars.js",
-          "contentPath": "C:\\Users\\Pedro\\Desktop\\TP3\\TP3\\docs",
-          "contentPathLocalized": "C:\\Users\\Pedro\\Desktop\\TP3\\TP3\\i18n\\pt\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\Pedro\\Desktop\\Biblioteca\\TP3\\sidebars.js",
+          "contentPath": "C:\\Users\\Pedro\\Desktop\\Biblioteca\\TP3\\docs",
+          "contentPathLocalized": "C:\\Users\\Pedro\\Desktop\\Biblioteca\\TP3\\i18n\\pt\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "intro",
