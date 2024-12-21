@@ -10,7 +10,7 @@ type Livro = {
 };
 
 const livros: Livro[] = [
-  
+  { id: 1, titulo: "Livro 1", descricao: "Descrição do Livro 1.", imagem: "/img/livros/livro1.jpg" },
 ];
 
 const Biblioteca: React.FC = () => {

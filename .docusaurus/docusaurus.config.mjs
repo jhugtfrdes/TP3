@@ -39,7 +39,7 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Test Site",
+      "title": "My Site",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
